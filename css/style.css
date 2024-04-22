@@ -1,0 +1,60 @@
+body{
+    margin: 0 auto;
+    background-color:lightgray;
+}
+
+h1{
+    text-transform: capitalize;
+    font-weight:bold;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 20px;
+
+}
+
+li{
+    display: inline;
+   
+}
+
+a{
+    text-decoration: none;
+    padding: 10px 10px 10px;
+    float:right;
+}
+
+#hero-image{
+    
+    height: 300px;
+}
+
+
+h2{
+
+    font-weight:bold;
+    text-transform: capitalize;
+}
+
+button{
+
+    text-align: center;
+    
+}
+
+#photo{
+
+    background-color: white;
+    height: 300px;
+    width: 300px;
+}
+
+
+#section{
+
+    height: 350px;
+    width:50%;
+    float: left;
+}
