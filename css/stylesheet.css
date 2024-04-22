@@ -1,0 +1,80 @@
+body {
+  margin: 0px;
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  color: white;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    text-align: center;
+  }
+}
+
+#hero-image {
+  background-image: url("../images/IMG_20231212_164333.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 0px;
+  padding-bottom: 10%;
+  padding-top: 50px;
+}
+
+#nav {
+  border-bottom: 2px solid gray;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+#progress {
+  width: 290px;
+}
+
+#about-section {
+  height: 380px;
+}
+
+#footer-section {
+  height: 500px;
+}
+
+#section {
+  height: 450px;
+}
+
+@media (max-width: 600px) {
+  br {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  #progress {
+    width: 290px;
+  }
+}
+
+@media (max-width: 600px) {
+  #contact {
+    height: 100px;
+  }
+}
+
+@media (max-width: 600px) {
+  #follow-me {
+    height: 100px;
+  }
+}
