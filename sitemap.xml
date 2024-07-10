@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns=" https://gabriel-3191997.github.io/gabriel-portfolio//schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.example.com/page1</loc>
+    <lastmod>2024-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/page2</loc>
+    <lastmod>2024-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- Add more URLs as needed -->
+</urlset>
