@@ -1,0 +1,90 @@
+
+@media(max-width: 600px){
+
+	h1{
+
+		padding-top: 30px;
+		margin-left: 20px;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	h1.heading{
+
+		display: none;
+	}
+}
+
+
+@media(max-width: 600px){
+	
+	.section{
+
+		
+		padding-top: 70px;
+		border-radius: 5px;
+	}
+}
+
+
+@media(max-width: 600px){
+	
+	.card{
+		
+		margin: 4px;
+		width:19rem;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	#about{
+
+		padding-bottom:30px;
+	}
+}
+
+
+@media(max-width: 600px){
+	
+	p {
+
+		text-align:justify;
+		padding: 10px;
+	}
+}
+
+
+
+@media(max-width: 600px){
+	
+	.about_section {
+
+		padding-bottom: 80px;
+	}
+}
+
+
+
+
+
+
+@media(max-width: 600px){
+	
+	p.text-dark{
+
+		text-align:justify;
+		padding: 10px;
+	}
+}
+
+@media(max-width: 600px){
+	
+	h2.heading{
+
+		margin-left:20px;
+	}
+}
